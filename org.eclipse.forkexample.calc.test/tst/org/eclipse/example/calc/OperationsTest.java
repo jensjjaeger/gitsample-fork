@@ -26,6 +26,7 @@ public class OperationsTest {
 	//Das ist mein neuer Kommentar
 	//Noch ein weiterer Kommentar
 	@Before
+	//Und jetzt würde ich hier schreiben, dass der Code schlecht ist :-)
 	public void setUp() throws Exception {
 		new Plus();
 		new Minus();
