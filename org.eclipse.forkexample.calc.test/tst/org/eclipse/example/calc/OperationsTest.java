@@ -23,7 +23,8 @@ import org.junit.Test;
 public class OperationsTest {
 
 	private Square square;
-
+	//Das ist mein neuer Kommentar
+	//Noch ein weiterer Kommentar
 	@Before
 	public void setUp() throws Exception {
 		new Plus();
@@ -31,6 +32,8 @@ public class OperationsTest {
 		new Equals();
 		square = new Square();
 	}
+	//So jetzt mache ich mal so richtig schöne Sachen.
+	// Hosties sind cool
 
 	@After
 	public void tearDown() throws Exception {
