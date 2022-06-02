@@ -35,6 +35,7 @@ public class Calculator {
 		setupDefaultOperations();
 	}
 
+	/* Hier werden die Operationen angeboten */ 
 	private void setupDefaultOperations() {
 		/*more operations to come*/
 		new Equals();
